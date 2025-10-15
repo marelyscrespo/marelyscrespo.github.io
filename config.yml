@@ -68,7 +68,7 @@ params:
             - name: Research
               url: archive/ 
             - name: Teaching
-              url: books/
+              url: courses/
 
     socialIcons:
         - name: CV

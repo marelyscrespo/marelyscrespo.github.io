@@ -61,9 +61,9 @@ params:
           imageHeight: 160
           buttons:
             - name: About me
-              url: papers/
+              url: data/ 
             - name: Research
-              url: archive/ 
+              url: papers/
             - name: Teaching
               url: courses/
 

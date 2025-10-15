@@ -5,8 +5,6 @@ author: "Marelys Crespo Navas"
 
 ---
 
----
-
 ##### Download
 
 + [Paper](paper1.pdf)

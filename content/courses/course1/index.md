@@ -7,9 +7,6 @@ cover:
     image: "course1.png"
     alt: "Villa of Reduced Circumstances"
     relative: true
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Course portal"
 showToc: true
 disableAnchoredHeadings: false
 

@@ -4,6 +4,7 @@ description: "."
 cover:
     image: "tse.jpg"
     relative: true
+    style: "max-width: 400px; border-radius: 10px;"
 showToc: false
 disableAnchoredHeadings: false
 

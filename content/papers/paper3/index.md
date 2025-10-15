@@ -2,18 +2,13 @@
 title: "Branching Processes and their Application to the study of Transmission of COVID-19 in Cuba" 
 date: 2020-12-08
 author: ["Marelys Crespo Navas", "Pedro Pablo de la Cruz", "Ernesto Quevedo", "José E. Valdés Castro"]
-summary: "Using several case studies, this paper describes the inner hedgehog, a psychological condition widespread in academic occupations. The condition has lasting consequences and no known cure." 
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Socio-Experimental Psychology"
-
----
+summary: "This paper studies the transmission of Covid-19 in Cuba using the branching processes for his modeling." 
 
 ---
 
 ##### Download
 
-+ [Paper](paper3.pdf)
++ [Paper](covid.pdf)
 
 ---
 
@@ -25,17 +20,16 @@ The present work is dedicated to the study of transmission of Covid-19 in Cuba, 
 
 ##### Citation
 
-Schreiber-Ziegler, Hilda, and Moritz-Maria von Igelfeld. 2021. "Your Inner Hedgehog." *Journal of Socio-Experimental Psychology* 131 (2): 1299–1302.
+Crespo Navas M, de la Cruz Cobas P P, Quevedo E, Valdés J E. Los Procesos de Ramificación y su Aplicación al Estudio de la Transmisión de la COVID-19 en Cuba. INFODIR .
 
 ```BibTeX
-@article{SZI21,
-author = {Hilda Schreiber-Ziegler and Moritz-Maria von Igelfeld},
-year = {2021},
-title ={Your Inner Hedgehog},
-journal = {Journal of Socio-Experimental Psychology},
-volume = {131},
-number = {2},
-pages = {1299--1302}}
+@article{Crespo Navas_de la Cruz Cobas_2020,
+title={Los Procesos de Ramificación y su Aplicación al Estudio de la Transmisión de la COVID-19 en Cuba},
+url={https://revinfodir.sld.cu/index.php/infodir/article/view/1042},
+journal={Revista de Información científica para la Dirección en Salud. INFODIR},
+author={Crespo Navas, Marelys and de la Cruz Cobas, Pedro Pablo},
+year={2020},
+month={dic.} }
 ```
 
 ---

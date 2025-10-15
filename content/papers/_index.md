@@ -8,7 +8,7 @@ description: "Preprints and articles by Marelys Crespo Navas."
 
 Stochastic Algorithms, Bayesian Statistics, Functional Inequalities, Markov Processes 
 
-#### Thesis manuscript
+#### PhD manuscript
 
 + [manuscript](these.pdf)
 

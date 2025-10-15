@@ -1,5 +1,5 @@
 ---
-title: "Toulouse School of Economics" 
+title: "2024-2025 ATER at Toulouse School of Economics" 
 description: "." 
 cover:
     image: "tse.jpg"

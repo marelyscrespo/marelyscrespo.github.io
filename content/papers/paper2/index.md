@@ -1,14 +1,9 @@
 ---
 title: "Stochastic Gradient Langevin Dynamics for (weakly) log-concave posterior distributions" 
-date: 2024
+date: 2024-10-23
 author: ["Marelys Crespo Navas", "Sébastien Gadat", "Xavier Gendre"]
 description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
-summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Electronic Journal of Probability, Vol. 29, 1-40"
-
----
+summary: "This paper studies the Stochastic Gradient Langevin Dynamics in a weak convex setting." 
 
 ---
 
@@ -26,7 +21,7 @@ In this paper, we investigate a continuous time version of the Stochastic Gradie
 
 ##### Citation
 
-Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
+ Marelys Crespo Navas. Sébastien Gadat. Xavier Gendre. "Stochastic Gradient Langevin Dynamics for (weakly) log-concave posterior distributions." Electron. J. Probab. 29 1 - 40, 2024. https://doi.org/10.1214/24-EJP1235 
 
 ```BibTeX
 @article{10.1214/24-EJP1235,

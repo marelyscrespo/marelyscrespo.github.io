@@ -1,7 +1,5 @@
 ---
 title: "2025-2026 ATER at Université Paris-Est Créteil"
-date: 2025-09-01
-author: "Marelys Crespo Navas"
 description: "." 
 cover:
     image: "upec.jpg"

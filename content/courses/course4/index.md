@@ -1,6 +1,6 @@
 ---
-title: "2025-2026 ATER at Université Paris-Est Créteil"
-description: "." 
+title: "ATER at Université Paris-Est Créteil"
+author: "2025-2026" 
 cover:
     image: "upec.jpg"
     relative: true

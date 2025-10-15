@@ -10,6 +10,6 @@ Stochastic Algorithms, Bayesian Statistics, Functional Inequalities, Markov Proc
 
 #### Thesis manuscript
 
-
++ [manuscript](these.pdf)
 
 #### Publications and preprints

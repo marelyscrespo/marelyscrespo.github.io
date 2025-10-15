@@ -1,17 +1,12 @@
 ---
-title: "The Finer Points of Sausage Dogs" 
-date: 2004-12-28
-tags: ["zoology","sausage dogs","canine pulmonary efficiency","canine science","experimental zoology"]
-author: ["Florianus Prinzel", "Moritz-Maria von Igelfeld"]
+title: "Stochastic Gradient Langevin Dynamics for (weakly) log-concave posterior distributions" 
+date: 2024
+author: ["Marelys Crespo Navas", "Sébastien Gadat", "Xavier Gendre"]
 description: "This paper studies the pulmonary efficiency of sausage dogs. Published in the Journal of Canine Science, 2004." 
 summary: "This paper studies the pulmonary efficiency of sausage dogs through several experiments." 
-cover:
-    image: "paper2.png"
-    alt: "Dimensions of a sausage dog"
-    relative: true
 editPost:
     URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Canine Science"
+    Text: "Electronic Journal of Probability, Vol. 29, 1-40"
 
 ---
 
@@ -20,20 +15,12 @@ editPost:
 ##### Download
 
 + [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/wunk-model)
 
 ---
 
 ##### Abstract
 
-This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur: $\sin(\theta) = x^2 - \exp(1+\chi)$. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor $\zeta$ incididunt ut labore et dolore magna aliqua: $p(x) = \int \cos(\zeta) d\zeta - \theta$. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
----
-
-##### Figure 2: Dimensions of a sausage dog
-
-![](paper2.png)
+In this paper, we investigate a continuous time version of the Stochastic Gradient Langevin Dynamics, introduced in [53], that incorporates a stochastic sampling step inside the traditional over-damped Langevin diffusion. This method is popular in machine learning for sampling a posterior distribution. We will pay specific attention to the computational cost in terms of n (the number of observations that produces the posterior distribution), and d (the dimension of the ambient space where the parameter of interest is living). We derive our analysis in the weakly convex framework, which is parameterized with the help of the Kurdyka-Łojasiewicz (KL) inequality, that permits to handle a vanishing curvature settings, which is far less restrictive when compared to the simple strongly convex case. We establish that the final horizon of simulation to obtain an $\epsilon$ approximation (in terms of entropy) is of the order ($d\log^2(n))(1+r)2[log^2(\epsilon,−1)+n2d2(1+r)log4(1+r)(n)$] with a Poissonian sub-sampling of parameter ($dlog2(n))−(1+r)2$, where the parameter $r$ is involved in the KL inequality and varies between 0 (strongly log-concave case) and 1 (limiting Laplace situation).
 
 ---
 
@@ -42,20 +29,18 @@ This paper studies the pulmonary efficiency of sausage dogs. Lorem ipsum dolor s
 Prinzel, Florianus, and Moritz-Maria von Igelfeld. 2004. "The Finer Points of Sausage Dogs." *Journal of Canine Science* 43 (2): 89–109. http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs.
 
 ```BibTeX
-@article{PI04,
-author = {Florianus Prinzel and Moritz-Maria von Igelfeld},
-year = {2004},
-title ={The Finer Points of Sausage Dogs},
-journal = {Journal of Canine Science},
-volume = {43},
-number = {2},
-pages = {89--109},
-url = {http://www.alexandermccallsmith.com/book/the-finer-points-of-sausage-dogs}}
+@article{10.1214/24-EJP1235,
+author = {Marelys Crespo Navas and S{\'e}bastien Gadat and Xavier Gendre},
+title = {{Stochastic Gradient Langevin Dynamics for (weakly) log-concave posterior distributions}},
+volume = {29},
+journal = {Electronic Journal of Probability},
+number = {none},
+publisher = {Institute of Mathematical Statistics and Bernoulli Society},
+pages = {1 -- 40},
+keywords = {log-concave models, stochastic gradient Langevin dynamics, weak convexity},
+year = {2024},
+doi = {10.1214/24-EJP1235},
+URL = {https://doi.org/10.1214/24-EJP1235}}
 ```
 
 ---
-
-##### Related material
-
-+ [Presentation slides](presentation2.pdf)
-+ [Wikipedia entry](https://en.wikipedia.org/wiki/The_Finer_Points_of_Sausage_Dogs)

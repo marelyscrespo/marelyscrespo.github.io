@@ -20,16 +20,15 @@ Stochastic differential equations are useful for modeling the prices of financia
 
 ##### Citation
 
-Crespo Navas M, de la Cruz Cobas P P, Quevedo E, Valdés J E. Los Procesos de Ramificación y su Aplicación al Estudio de la Transmisión de la COVID-19 en Cuba. INFODIR .
+Crespo Navas M, Marín F H, Valdés J E. Mean reverting process with stochastic volatility. Memorias del XVI Congreso Internacional CompuMat, 2019.
 
 ```BibTeX
-@article{Crespo Navas_de la Cruz Cobas_2020,
-title={Los Procesos de Ramificación y su Aplicación al Estudio de la Transmisión de la COVID-19 en Cuba},
-url={https://revinfodir.sld.cu/index.php/infodir/article/view/1042},
-journal={Revista de Información científica para la Dirección en Salud. INFODIR},
+@article{Crespo_compumat,
+title={Mean reverting process with stochastic volatility},
+url={https://isbncuba.ccl.cerlalc.org/catalogo.php?mode=detalle&nt=39844},
+journal={Memorias del XVI Congreso Internacional CompuMat},
 author={Crespo Navas, Marelys and de la Cruz Cobas, Pedro Pablo},
-year={2020},
-month={dic.} }
+year={2019} }
 ```
 
 ---

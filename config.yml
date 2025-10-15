@@ -82,8 +82,8 @@ params:
     assets:
         disableScrollBarStyle: true
     cover:
-        hiddenInList: false
-        hiddenInSingle: false
+        hiddenInList: true
+        hiddenInSingle: true
     label:
       text: "Marelys Crespo Navas"
       icon: favicon.ico

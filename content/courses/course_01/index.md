@@ -1,12 +1,9 @@
 ---
 title: "ATER at Université Paris-Est Créteil"
 author: "2025-2026" 
-cover:
-    image: "upec.jpg"
-    relative: true
 showToc: false
 disableAnchoredHeadings: false
-
+summary: "Probability and Calculus"
 ---
 
 ## First semester:

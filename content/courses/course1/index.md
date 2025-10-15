@@ -4,8 +4,7 @@ date: 2025-09-01
 author: "Marelys Crespo Navas"
 description: "." 
 cover:
-    image: "course1.png"
-    alt: "Villa of Reduced Circumstances"
+    image: "upec.jpg"
     relative: true
 showToc: true
 disableAnchoredHeadings: false

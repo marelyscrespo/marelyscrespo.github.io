@@ -8,7 +8,7 @@ summary: "This paper studies the Stochastic Gradient Langevin Dynamics in a weak
 
 ##### Download
 
-+ [Paper](paper2.pdf)
++ [Paper](SGLD.pdf)
 
 ---
 

@@ -10,8 +10,6 @@ author: "Marelys Crespo Navas"
 ##### Download
 
 + [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/feru)
 
 ---
 
@@ -23,18 +21,23 @@ The Euler discretisation of Langevin diffusion, also known as Unadjusted Langevi
 
 ##### Citation
 
-Unterholzer, Detlev A., and  Moritz-Maria von Igelfeld. 2013. "Unusual Uses For Olive Oil." *Journal of Oleic Science* 34 (1): 449–489. http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil.
+Crespo Navas, Marelys. 2024. "Discretisation of Langevin diffusion in the weak log-concave case." preprint 
 
 ```BibTeX
-@article{UI13,
-author = {Detlev A. Unterholzer and Moritz-Maria von Igelfeld},
-year = {2013},
-title ={Unusual Uses For Olive Oil},
-journal = {Journal of Oleic Science},
-volume = {34},
-number = {1},
-pages = {449--489},
-url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
+@unpublished{crespo:hal-04427207,
+  TITLE = {{Discretisation of Langevin diffusion in the weak log-concave case}},
+  AUTHOR = {Crespo, Marelys},
+  URL = {https://hal.science/hal-04427207},
+  NOTE = {working paper or preprint},
+  YEAR = {2024},
+  MONTH = Jan,
+  KEYWORDS = {Unadjusted Langevin Algorithm ; Entropy ; Weak convexity ; Rate of convergence},
+  PDF = {https://hal.science/hal-04427207v1/file/ULA.pdf},
+  HAL_ID = {hal-04427207},
+  HAL_VERSION = {v1},
+}
 ```
 
 ---
+
+

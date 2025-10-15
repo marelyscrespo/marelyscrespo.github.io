@@ -1,6 +1,6 @@
 ---
 title: "Discretisation of Langevin diffusion in the weak log-concave case" 
-date: 2024
+date: 2024-01-31
 author: "Marelys Crespo Navas" 
 summary: "This paper studies the Unadjusted Langevin Algorithm in a weak convex setting."
 

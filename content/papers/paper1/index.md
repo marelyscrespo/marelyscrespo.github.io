@@ -25,17 +25,16 @@ Crespo Navas, Marelys. 2024. "Discretisation of Langevin diffusion in the weak l
 
 ```BibTeX
 @unpublished{crespo:hal-04427207,
-  TITLE = {{Discretisation of Langevin diffusion in the weak log-concave case}},
-  AUTHOR = {Crespo, Marelys},
-  URL = {https://hal.science/hal-04427207},
-  NOTE = {working paper or preprint},
-  YEAR = {2024},
-  MONTH = Jan,
-  KEYWORDS = {Unadjusted Langevin Algorithm ; Entropy ; Weak convexity ; Rate of convergence},
-  PDF = {https://hal.science/hal-04427207v1/file/ULA.pdf},
-  HAL_ID = {hal-04427207},
-  HAL_VERSION = {v1},
-}
+  title = {{Discretisation of Langevin diffusion in the weak log-concave case}},
+  author = {Crespo, Marelys},
+  url = {https://hal.science/hal-04427207},
+  note = {working paper or preprint},
+  year = {2024},
+  month = Jan,
+  keywords = {Unadjusted Langevin Algorithm ; Entropy ; Weak convexity ; Rate of convergence},
+  pdf = {https://hal.science/hal-04427207v1/file/ULA.pdf},
+  hal_id = {hal-04427207},
+  hal_version = {v1}}
 ```
 
 ---

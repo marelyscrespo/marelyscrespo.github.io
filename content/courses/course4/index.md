@@ -1,5 +1,5 @@
 ---
-title: "2021-2024 PhD at Université Toulouse III Paul Sabatier"
+title: "2016-2020 Assistant Professor at Universidad de La Habana"
 showToc: false
 disableAnchoredHeadings: false
 

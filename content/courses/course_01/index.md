@@ -1,9 +1,10 @@
 ---
 title: "ATER at Université Paris-Est Créteil"
-author: "2025-2026" 
+author: "2025-2026"
+summary: "Probability and Calculus"
 showToc: false
 disableAnchoredHeadings: false
-summary: "Probability and Calculus"
+
 ---
 
 ## First semester:

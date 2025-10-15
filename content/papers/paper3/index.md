@@ -23,13 +23,12 @@ The present work is dedicated to the study of transmission of Covid-19 in Cuba, 
 Crespo Navas M, de la Cruz Cobas P P, Quevedo E, Valdés J E. Los Procesos de Ramificación y su Aplicación al Estudio de la Transmisión de la COVID-19 en Cuba. INFODIR .
 
 ```BibTeX
-@article{Crespo Navas_de la Cruz Cobas_2020,
+@article{Crespo_2020,
 title={Los Procesos de Ramificación y su Aplicación al Estudio de la Transmisión de la COVID-19 en Cuba},
 url={https://revinfodir.sld.cu/index.php/infodir/article/view/1042},
 journal={Revista de Información científica para la Dirección en Salud. INFODIR},
 author={Crespo Navas, Marelys and de la Cruz Cobas, Pedro Pablo},
-year={2020},
-month={dic.} }
+year={2020} }
 ```
 
 ---

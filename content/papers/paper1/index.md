@@ -7,7 +7,7 @@ author: "Marelys Crespo Navas"
 
 ##### Download
 
-+ [Paper](paper1.pdf)
++ [Paper](ULA-1.pdf)
 
 ---
 

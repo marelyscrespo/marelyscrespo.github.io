@@ -8,7 +8,7 @@ summary: "This paper studies the transmission of Covid-19 in Cuba using the bran
 
 ##### Download
 
-+ [Paper](covid.pdf)
++ [Paper](compumat.pdf)
 
 ---
 

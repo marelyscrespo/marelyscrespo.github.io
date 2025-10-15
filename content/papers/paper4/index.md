@@ -2,7 +2,7 @@
 title: "Mean reverting process with stochastic volatility" 
 date: 2019-10-02
 author: ["Marelys Crespo Navas", "Fredy H. Marín", "José E. Valdés Castro"]
-summary: "This paper studies the transmission of Covid-19 in Cuba using the branching processes for his modeling." 
+summary: "Using the mean reverting model with stochastic volatility, we estimate the electricity prices in Colombia." 
 
 ---
 

@@ -8,7 +8,7 @@ summary: "This paper illustrates the application of the Bayesian Model Averaging
 
 ##### Download
 
-+ [Paper](.pdf)
++ [Paper](cienciasmatematicas.pdf)
 
 ---
 

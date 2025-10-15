@@ -1,17 +1,7 @@
 ---
-title: "Unusual Uses For Olive Oil" 
-date: 2013-01-15
-tags: ["philology","oleic science","history of oil","Mediterranean world"]
-author: ["Detlev Amadeus Unterholzer","Moritz-Maria von Igelfeld"]
-description: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. Published in the Journal of Oleic Science, 2013." 
-summary: "This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil." 
-cover:
-    image: "paper1.png"
-    alt: "Some Uses For Olive Oil"
-    relative: true
-editPost:
-    URL: "https://github.com/pmichaillat/hugo-website"
-    Text: "Journal of Oleic Science"
+title: "Discretisation of Langevin diffusion in the weak log-concave case" 
+date: 2024
+author: "Marelys Crespo Navas" 
 
 ---
 
@@ -27,13 +17,7 @@ editPost:
 
 ##### Abstract
 
-This paper reviews unusual uses for olive oil throughout the Mediterranean world. It highlights in particular the challengs arising from excessive or unorthodox consumption of olive oil. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
----
-
-##### Figure 6: Some Uses For Olive Oil
-
-![](paper1.png)
+The Euler discretisation of Langevin diffusion, also known as Unadjusted Langevin Algorithm, is commonly used in machine learning for sampling from a given distribution µ ∝ e^(-U). In this paper we investigate a potential U : R^d-→ R which is a weakly convex function and has Lipschitz gradient. We parameterize the weak convexity with the help of the Kurdyka-Lojasiewicz (KL) inequality, that permits to handle a vanishing curvature settings, which is far less restrictive when compared to the simple strongly convex case. We prove that the final horizon of simulation to obtain an ε approximation (in terms of entropy) is of the order ε^(-1) d^(1+2(1+r)^2) Poly(log(d), log(ε^(-1))), where the parameter r is involved in the KL inequality and varies between 0 (strongly convex case) and 1 (limiting Laplace situation). 
 
 ---
 
@@ -52,10 +36,3 @@ number = {1},
 pages = {449--489},
 url = {http://www.alexandermccallsmith.com/book/unusual-uses-for-olive-oil}}
 ```
-
----
-
-##### Related material
-
-+ [Presentation slides](presentation1.pdf)
-+ [Summary of the paper](https://www.penguinrandomhouse.com/books/110403/unusual-uses-for-olive-oil-by-alexander-mccall-smith/)

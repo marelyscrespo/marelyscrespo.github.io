@@ -1,6 +1,6 @@
 ---
 title: "Application of the BMA Model Selection Criterion under a Bayesian Approach to a Problem of Occupational Allergic Sensitivity in Bakeries in Havana" 
-date: 2016-03
+date: 2016-09-03
 author: ["Marelys Crespo Navas", "Vivian Sistachs"]
 summary: "This paper illustrates the application of the Bayesian Model Averaging to a public health problem." 
 

@@ -1,5 +1,6 @@
 ---
 title: "2016-2020 Assistant Professor at Universidad de La Habana"
+author : ""
 showToc: false
 disableAnchoredHeadings: false
 

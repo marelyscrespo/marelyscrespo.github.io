@@ -1,7 +1,6 @@
 ---
-title: "2016-2020 Assistant Professor at Universidad de La Habana"
-author : "Marelys Crespo Navas"
-date: 2016-2020
+title: "Assistant Professor at Universidad de La Habana"
+author : "2016-2020"
 showToc: false
 disableAnchoredHeadings: false
 

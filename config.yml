@@ -27,6 +27,9 @@ menu:
         - name: Blog
           url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
           weight: 6
+        - name: Archive  
+          url: archive/  
+          weight: 7
 
 params:
     description: "This website hosts Marelys Crespo Navas research papers, curriculum vitae, and contact information."

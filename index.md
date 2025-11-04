@@ -37,7 +37,20 @@ I am currently a Teaching and Research Fellow at Université Paris-Est Créteil.
    *Ciencias Matemáticas*, 30(2), 65–71, 2016. [paper](https://revistas.uh.cu/rcm/article/view/8818)
 
 **Thesis manuscript**
+
 (2024) *Stochastic algorithms for Bayesian estimation and Diffusion processes.* [pdf](https://drive.google.com/file/d/1BL6B44G6D0RUMI_WU2105qLKqTgCke2a/view?usp=drive_link)
+
+---
+
+## Education
+
+- 2021-2024 Ph.D. in Applied Mathematics at Université Toulouse III Paul Sabatier
+
+- 2020-2021 M.Sc. in Applied and Theoretical Mathematics (MATH) at Université Paris Dauphine - PSL
+
+- 2016-2018 M.Sc. in Mathematics, mention Probability and Statistics at Universidad de La Habana
+
+- 2012-2016 B.Sc in Mathematics at Universidad de La Habana
 
 ---
 

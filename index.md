@@ -114,6 +114,7 @@ Probability and Statistics (undergraduate and master level), Stochastic processe
 
 Université Paris-Est Créteil  
 Email: marelys.crespo-navas@u-pec.fr  
+Bureau: P3 418 at UPEC - 61 Av. du Général de Gaulle Centre, 94010, 94000 Créteil, France
 GitHub: [marelyscrespo](https://github.com/marelyscrespo)
 
 ---

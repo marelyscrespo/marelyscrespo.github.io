@@ -2,14 +2,6 @@
 title: "Marelys Crespo Navas – Research"
 ---
 
-# Marelys Crespo Navas
-
-*Mathematics researcher*  
-*Stochastic processes – Bayesian inference – Statistics*  
-Université Paris-Est Créteil, France  
-
----
-
 ## About me
 
 I’m a mathematician interested in stochastic algorithms, Bayesian estimation and diffusion processes. I received my Ph.D. in Applied Mathematics from Université Toulouse III – Paul Sabatier in December 2024, under the supervision of Sébastien Gadat and Xavier Gendre. 

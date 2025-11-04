@@ -54,11 +54,35 @@ I am currently a Teaching and Research Fellow at Université Paris-Est Créteil.
 
 ---
 
+## Languages
+
+Spanish (Native), French (Fluent), English (Fluent)
+
+---
+
+## Computer Skills
+
+Python (Advanced), Latex (Advanced), R (Intermediate), MatLab (Intermediate)
+
+---
+
 ## Teaching
 
 - Probability and Statistics (undergraduate)
 - Mathematical modeling
 - Stochastic processes (master level)
+
+1. 2025-2026 ATER at Université Paris-Est Créteil
+  - Exercises sessions of Probability and Statistics for second year students of Computer Sciences
+  - Lectures and exercises sessions of Calculus I for first year students of Computer Sciences
+
+2. 2024-2025 ATER at Toulouse School of Economics
+   - Exercises sessions of Probability for second year students of Economics and Economic Management 
+   - Exercises sessions of Statistics for first year master's students of Data Sciences
+   - Introductory exercises sessions of Mathematics for first year students of Economics
+   - Lectures and exercises sessions of Descriptive Statistics for first year students of Economics and Economic Management
+   - Exercises sessions of Statistical Inference for second year students of Economics and Economic Management 
+
 
 ---
 

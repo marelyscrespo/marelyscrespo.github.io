@@ -24,16 +24,21 @@ I am currently a Teaching and Research Fellow at Université Paris-Est Créteil.
    with [S. Gadat](https://perso.math.univ-toulouse.fr/gadat/) and [X. Gendre](https://www.math.univ-toulouse.fr/~xgendre/).  
    *Electron. J. Probab.*, 29:1–40, 2024. [paper](https://doi.org/10.1214/24-EJP1235)
 
-2. *Branching Processes and their Application to the study of Transmission of COVID-19 in Cuba*  
+2. *Branching Processes and their Application to the study of Transmission of COVID-19 in Cuba*
+   with P. P. de la Cruz, E. Quevedo and J. E. Valdés. 
    *INFODIR*, 2020. [paper](https://revinfodir.sld.cu/index.php/infodir/article/view/1042)
 
-3. *Mean reverting process with stochastic volatility*
-   with F. H. Marín F H and J. E. Valdés.
+4. *Mean reverting process with stochastic volatility*
+   with F. H. Marín and J. E. Valdés.
    *Memorias del XVI Congreso Internacional CompuMat*, 2019. [pdf](https://drive.google.com/file/d/1JyWKpp7dU53OOquoa8U0OLk8o4NUFSkb/view?usp=drive_link)
 
-4. *Application of the BMA Model Selection Criterion under a Bayesian Approach to a Problem of Occupational Allergic Sensitivity in Bakeries in Havana*
+5. *Application of the BMA Model Selection Criterion under a Bayesian Approach to a Problem of Occupational Allergic Sensitivity in Bakeries in Havana*
    with V. Sistachs.
    *Ciencias Matemáticas*, 30(2), 65–71, 2016. [paper](https://revistas.uh.cu/rcm/article/view/8818)
+
+**Thesis manuscript**
+(2024) *Stochastic algorithms for Bayesian estimation and Diffusion processes.* [pdf](https://drive.google.com/file/d/1BL6B44G6D0RUMI_WU2105qLKqTgCke2a/view?usp=drive_link)
+
 ---
 
 ## Teaching

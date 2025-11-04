@@ -2,5 +2,7 @@ title: "Marelys Crespo Navas"
 description: "Research in Mathematics"
 theme: jekyll-theme-minimal
 markdown: kramdown
+github:
+  is_user_page: false
 include:
   - assets/css/style.css

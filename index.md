@@ -83,6 +83,31 @@ Python (Advanced), Latex (Advanced), R (Intermediate), MatLab (Intermediate)
    - Lectures and exercises sessions of Descriptive Statistics for first year students of Economics and Economic Management
    - Exercises sessions of Statistical Inference for second year students of Economics and Economic Management 
 
+3. 2023-2024: Adjunct at Université Toulouse I Capitole
+   - Exercises sessions of Probability for second year students of Economics and Economic Management   
+   - Exercises sessions of Statistical Inference for second year students of Economics degree
+   - Support classes of Mathematics for first year students of Economics
+
+4. 2022-2024: Adjunct at ISAE - Supaero
+   - Exercises sessions of Functional analysis for second year students 
+
+5. May 2024: Academic cooperation at Universidad de La Habana
+   - Introduction to Stochastic calculus for undergraduate and graduate students in Mathematics with professor José E. Valdés Castro
+
+6. 2022-2023: Universidad de La Habana (online course)
+   - Stochastic models for undergraduate and graduate students in Mathematics with professor José E. Valdés Castro
+
+7. 2016-2020 Assistant Professor at Universidad de La Habana 
+   - Lectures of Probability theory for second year students of Mathematics degree, 2018-2019
+   - Lectures of Probability for third year students of Computer science degree, 2018-2020
+   - Exercises sessions of Probability and Statistical inference for students of Mathematics degree, 2017-2019
+   - Exercises sessions of Probability and Statistics for students of Computer science degree, 2016-2020
+   - Exercises sessions of Statistics for students of Sociology degree, 2016-2017
+   - Lectures of Calculus for first year students of Accounting degree, 2016-2017
+
+8. 2012-2016 Teaching Assistant at Universidad de La Habana
+   - Exercises sessions of Probability Theory for second year students of Mathematics degree, 2015-2016
+   - Exercises sessions of Calculus for first year students of Biology degree, 2014-2015
 
 ---
 

@@ -9,7 +9,7 @@ I’m a mathematician interested in stochastic algorithms, Bayesian estimation a
 
 I am currently a Teaching and Research Fellow at Université Paris-Est Créteil.
 
-📄 [CV](https://drive.google.com/file/d/1oCtSAWDaMyEMwAuzWbVnSu9TmdyOJbQX/view?usp=drive_link)  
+📄 [CV](https://drive.google.com/file/d/1-Ff_JfyP9bm3J1i2f8itz1mETpbyGBiW/view?usp=drive_link)  
 📧 profesional email : marelys.crespo-navas@u-pec.fr
 
 ---
@@ -39,6 +39,18 @@ I am currently a Teaching and Research Fellow at Université Paris-Est Créteil.
 **Thesis manuscript**
 
 (2024) *Stochastic algorithms for Bayesian estimation and Diffusion processes.* [pdf](https://drive.google.com/file/d/1BL6B44G6D0RUMI_WU2105qLKqTgCke2a/view?usp=drive_link)
+
+---
+
+## Academic Appointments
+
+- 2025-2026 Teaching Assistant (ATER) at Université Paris-Est Créteil, France
+
+- 2024-2025 Teaching Assistant (ATER) at Toulouse School of Economics, France
+
+- 2022-2024 Graduate Teaching Assistant at ISAE Supaero and Toulouse School of Economics, France
+
+- 2016-2020 Assistant Professor at Universidad de La Habana, Cuba
 
 ---
 

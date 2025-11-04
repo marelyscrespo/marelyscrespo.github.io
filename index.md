@@ -1,20 +1,20 @@
 ---
-title: "María Rodríguez – Research"
+title: "Marelys Crespo Navas – Research"
 ---
 
-# María Rodríguez
+# Marelys Crespo Navas
 
 *Mathematics researcher*  
 *Stochastic processes – Bayesian inference – Statistics*  
-Université de Toulouse, France  
+Université Paris-Est Créteil, France  
 
 ---
 
 ## About me
 
-I am a mathematician working on stochastic algorithms and Bayesian estimation.  
-My research interests include Langevin diffusion, stochastic gradient methods, and applications to data analysis.  
-I am currently seeking a position as *Maître de conférences* in France.
+I’m a mathematician interested in stochastic algorithms, Bayesian estimation and diffusion processes. I received my Ph.D. in Applied Mathematics from Université Toulouse III – Paul Sabatier in December 2024, under the supervision of Sébastien Gadat and Xavier Gendre. 
+
+I am currently a Teaching and Research Fellow at Université Paris-Est Créteil.
 
 📄 [Download CV (PDF)](link-a-tu-cv.pdf)  
 📧 [Email me](mailto:tuemail@ejemplo.com)

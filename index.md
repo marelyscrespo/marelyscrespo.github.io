@@ -68,47 +68,45 @@ Python (Advanced), Latex (Advanced), R (Intermediate), MatLab (Intermediate)
 
 ## Teaching
 
-- Probability and Statistics (undergraduate)
-- Mathematical modeling
-- Stochastic processes (master level)
+Probability and Statistics (undergraduate and master level), Stochastic processes (master level), Calculus (undergraduate)
 
 1. 2025-2026 ATER at Université Paris-Est Créteil
-  - Exercises sessions of Probability and Statistics for second year students of Computer Sciences
-  - Lectures and exercises sessions of Calculus I for first year students of Computer Sciences
+  - Exercises sessions of <u>Probability and Statistics</u> for second year students of Computer Sciences
+  - Lectures and exercises sessions of <u>Calculus I</u> for first year students of Computer Sciences
 
 2. 2024-2025 ATER at Toulouse School of Economics
-   - Exercises sessions of Probability for second year students of Economics and Economic Management 
-   - Exercises sessions of Statistics for first year master's students of Data Sciences
-   - Introductory exercises sessions of Mathematics for first year students of Economics
-   - Lectures and exercises sessions of Descriptive Statistics for first year students of Economics and Economic Management
-   - Exercises sessions of Statistical Inference for second year students of Economics and Economic Management 
+   - Exercises sessions of <u>Probability</u> for second year students of Economics and Economic Management 
+   - Exercises sessions of <u>Statistics</u> for first year master's students of Data Sciences
+   - Introductory exercises sessions of <u>Mathematics</u> for first year students of Economics
+   - Lectures and exercises sessions of <u>Descriptive Statistics</u> for first year students of Economics and Economic Management
+   - Exercises sessions of <u>Statistical Inference</u> for second year students of Economics and Economic Management 
 
 3. 2021-2024 PhD student
    - 2023-2024: Adjunct at Université Toulouse I Capitole
-      - Exercises sessions of Probability for second year students of Economics and Economic Management   
-      - Exercises sessions of Statistical Inference for second year students of Economics degree
-      - Support classes of Mathematics for first year students of Economics
+      - Exercises sessions of <u>Probability</u> for second year students of Economics and Economic Management   
+      - Exercises sessions of <u>Statistical Inference</u> for second year students of Economics degree
+      - Support classes of <u>Mathematics</u> for first year students of Economics
 
    - 2022-2024: Adjunct at ISAE - Supaero
-      - Exercises sessions of Functional analysis for second year students 
+      - Exercises sessions of <u>Functional analysis</u> for second year students 
 
    - May 2024: Academic cooperation at Universidad de La Habana
-      - Introduction to Stochastic calculus for undergraduate and graduate students in Mathematics with professor José E. Valdés Castro
+      - <u>Introduction to Stochastic calculus</u> for undergraduate and graduate students in Mathematics with professor José E. Valdés Castro
 
    - 2022-2023: Universidad de La Habana (online course)
-      - Stochastic models for undergraduate and graduate students in Mathematics with professor José E. Valdés Castro
+      - <u>Stochastic models</u> for undergraduate and graduate students in Mathematics with professor José E. Valdés Castro
 
 4. 2016-2020 Assistant Professor at Universidad de La Habana 
-   - Lectures of Probability theory for second year students of Mathematics degree, 2018-2019
-   - Lectures of Probability for third year students of Computer science degree, 2018-2020
-   - Exercises sessions of Probability and Statistical inference for students of Mathematics degree, 2017-2019
-   - Exercises sessions of Probability and Statistics for students of Computer science degree, 2016-2020
-   - Exercises sessions of Statistics for students of Sociology degree, 2016-2017
-   - Lectures of Calculus for first year students of Accounting degree, 2016-2017
+   - Lectures of <u>Probability theory</u> for second year students of Mathematics degree, 2018-2019
+   - Lectures of <u>Probability</u> for third year students of Computer science degree, 2018-2020
+   - Exercises sessions of <u>Probability</u> and <u>Statistical inference</u> for students of Mathematics degree, 2017-2019
+   - Exercises sessions of <u>Probability</u> and <u>Statistics</u> for students of Computer science degree, 2016-2020
+   - Exercises sessions of <u>Statistics</u> for students of Sociology degree, 2016-2017
+   - Lectures of <u>Calculus</u> for first year students of Accounting degree, 2016-2017
 
 5. 2012-2016 Teaching Assistant at Universidad de La Habana
    - Exercises sessions of <u>Probability Theory</u> for second year students of Mathematics degree
-   - Exercises sessions of Calculus for first year students of Biology degree
+   - Exercises sessions of <u>Calculus</u> for first year students of Biology degree
 
 ---
 

@@ -9,7 +9,7 @@ I’m a mathematician interested in stochastic algorithms, Bayesian estimation a
 
 I am currently a Teaching and Research Fellow at Université Paris-Est Créteil.
 
-📄 [CV]()  
+📄 [CV](https://drive.google.com/file/d/1oCtSAWDaMyEMwAuzWbVnSu9TmdyOJbQX/view?usp=drive_link)  
 📧 profesional email : marelys.crespo-navas@u-pec.fr
 
 ---

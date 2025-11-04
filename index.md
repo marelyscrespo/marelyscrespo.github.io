@@ -112,8 +112,8 @@ Probability and Statistics (undergraduate and master level), Stochastic processe
 
 ## Contact
 
-Université de Toulouse  
-Email: tuemail@ejemplo.com  
-GitHub: [tuusuario](https://github.com/tuusuario)
+Université Paris-Est Créteil  
+Email: marelys.crespo-navas@u-pec.fr  
+GitHub: [marelyscrespo](https://github.com/marelyscrespo)
 
 ---

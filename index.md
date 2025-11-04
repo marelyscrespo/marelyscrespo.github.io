@@ -1,5 +1,6 @@
 ---
 title: "Marelys Crespo Navas – Research"
+
 ---
 
 ## About me
@@ -8,8 +9,8 @@ I’m a mathematician interested in stochastic algorithms, Bayesian estimation a
 
 I am currently a Teaching and Research Fellow at Université Paris-Est Créteil.
 
-📄 [Download CV (PDF)](link-a-tu-cv.pdf)  
-📧 [Email me](mailto:tuemail@ejemplo.com)
+📄 [CV]()  
+📧 profesional email : marelys.crespo-navas@u-pec.fr
 
 ---
 
@@ -26,6 +27,10 @@ I am currently a Teaching and Research Fellow at Université Paris-Est Créteil.
 2. *Branching Processes and their Application to the study of Transmission of COVID-19 in Cuba*  
    *INFODIR*, 2020. [paper](https://revinfodir.sld.cu/index.php/infodir/article/view/1042)
 
+3. *Mean reverting process with stochastic volatility*
+   with F. H. Marín F H and J. E. Valdés.
+   *Memorias del XVI Congreso Internacional CompuMat*, 2019.
+   
 ---
 
 ## Teaching

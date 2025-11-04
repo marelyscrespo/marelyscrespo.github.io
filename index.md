@@ -107,8 +107,8 @@ Python (Advanced), Latex (Advanced), R (Intermediate), MatLab (Intermediate)
    - Lectures of Calculus for first year students of Accounting degree, 2016-2017
 
 5. 2012-2016 Teaching Assistant at Universidad de La Habana
-   - Exercises sessions of Probability Theory for second year students of Mathematics degree, 2015-2016
-   - Exercises sessions of Calculus for first year students of Biology degree, 2014-2015
+   - Exercises sessions of <u>Probability Theory</u> for second year students of Mathematics degree
+   - Exercises sessions of Calculus for first year students of Biology degree
 
 ---
 

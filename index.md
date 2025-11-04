@@ -29,8 +29,11 @@ I am currently a Teaching and Research Fellow at Université Paris-Est Créteil.
 
 3. *Mean reverting process with stochastic volatility*
    with F. H. Marín F H and J. E. Valdés.
-   *Memorias del XVI Congreso Internacional CompuMat*, 2019.
-   
+   *Memorias del XVI Congreso Internacional CompuMat*, 2019. [pdf](https://drive.google.com/file/d/1JyWKpp7dU53OOquoa8U0OLk8o4NUFSkb/view?usp=drive_link)
+
+4. *Application of the BMA Model Selection Criterion under a Bayesian Approach to a Problem of Occupational Allergic Sensitivity in Bakeries in Havana*
+   with V. Sistachs.
+   *Ciencias Matemáticas*, 30(2), 65–71, 2016. [paper](https://revistas.uh.cu/rcm/article/view/8818)
 ---
 
 ## Teaching

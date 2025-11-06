@@ -17,7 +17,7 @@ I am currently a Teaching and Research Fellow at Université Paris-Est Créteil.
 ## Publications
 
 **Preprint**  
-1. *Discretisation of Langevin diffusion in the weak log-concave case*, 2024.  
+1. *Discretisation of Langevin diffusion in the weak log-concave case*, 2024. [hal link](https://hal.science/hal-04427207)  
 
 **Journal Articles**  
 1. *Stochastic Gradient Langevin Dynamics for (weakly) log-concave posterior distributions*  

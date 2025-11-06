@@ -25,15 +25,15 @@ I am currently a Teaching and Research Fellow at Université Paris-Est Créteil.
    *Electron. J. Probab.*, 29:1–40, 2024. [paper](https://doi.org/10.1214/24-EJP1235)
 
 2. *Branching Processes and their Application to the study of Transmission of COVID-19 in Cuba*
-   with P. P. de la Cruz, E. Quevedo and J. E. Valdés. 
+   with P. P. de la Cruz, [E. Quevedo](https://scholar.google.com/citations?hl=es&user=F4seeuYAAAAJ) and [J. E. Valdés](mailto:vcastro@matcom.uh.cu). 
    *INFODIR*, 2020. [paper](https://revinfodir.sld.cu/index.php/infodir/article/view/1042)
 
 4. *Mean reverting process with stochastic volatility*
-   with F. H. Marín and J. E. Valdés.
+   with [F. H. Marín](https://www.eafit.edu.co/nuestros-profesores/fredy-hernan-marin-sanchez) and [J. E. Valdés](mailto:vcastro@matcom.uh.cu).
    *Memorias del XVI Congreso Internacional CompuMat*, 2019. [pdf](https://drive.google.com/file/d/1JyWKpp7dU53OOquoa8U0OLk8o4NUFSkb/view?usp=drive_link)
 
 5. *Application of the BMA Model Selection Criterion under a Bayesian Approach to a Problem of Occupational Allergic Sensitivity in Bakeries in Havana*
-   with V. Sistachs.
+   with [V. Sistachs](mailto:vivian@matcom.uh.cu).
    *Ciencias Matemáticas*, 30(2), 65–71, 2016. [paper](https://revistas.uh.cu/rcm/article/view/8818)
 
 **Thesis manuscript**

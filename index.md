@@ -17,7 +17,8 @@ I am currently a Teaching and Research Fellow at Université Paris-Est Créteil.
 ## Publications
 
 **Preprint**  
-1. *Discretisation of Langevin diffusion in the weak log-concave case*, 2024. [hal link](https://hal.science/hal-04427207)  
+1. *Preventive Maintenance of a Two-Unit Priority Standby System with Repair* with A. Carballo and [J. E. Valdés](mailto:vcastro@matcom.uh.cu), 2026. [hal link](https://hal.science/hal-05558737)
+2. *Discretisation of Langevin diffusion in the weak log-concave case*, 2024. [hal link](https://hal.science/hal-04427207)  
 
 **Journal Articles**  
 1. *Stochastic Gradient Langevin Dynamics for (weakly) log-concave posterior distributions*  
@@ -38,7 +39,7 @@ I am currently a Teaching and Research Fellow at Université Paris-Est Créteil.
 
 **Thesis manuscript**
 
-(2024) *Stochastic algorithms for Bayesian estimation and Diffusion processes.* [pdf](https://drive.google.com/file/d/1BL6B44G6D0RUMI_WU2105qLKqTgCke2a/view?usp=drive_link)
+(2024) *Stochastic algorithms for Bayesian estimation and Diffusion processes.* [pdf](https://drive.google.com/file/d/1BL6B44G6D0RUMI_WU2105qLKqTgCke2a/view?usp=drive_link) [hal link](https://theses.hal.science/tel-05054471)
 
 ---
 

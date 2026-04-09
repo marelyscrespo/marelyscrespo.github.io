@@ -39,7 +39,7 @@ I am currently a Teaching and Research Fellow at Université Paris-Est Créteil.
 
 **Thesis manuscript**
 
-(2024) *Stochastic algorithms for Bayesian estimation and Diffusion processes.* [pdf](https://drive.google.com/file/d/1BL6B44G6D0RUMI_WU2105qLKqTgCke2a/view?usp=drive_link) [hal link](https://theses.hal.science/tel-05054471)
+(2024) *Stochastic algorithms for Bayesian estimation and Diffusion processes.* [hal link](https://theses.hal.science/tel-05054471)
 
 ---
 
